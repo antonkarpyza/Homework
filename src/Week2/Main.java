@@ -12,7 +12,7 @@ public class Main {
                     MultiplicationTable.Table();
                     break;
                 case 2:
-                    CountCharacters countcharacters = new CountCharacters();
+                    Work21 countcharacters = new Work21();
                     countcharacters.symbolCount();
                     break;
                 case 3:

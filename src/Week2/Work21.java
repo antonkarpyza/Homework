@@ -2,7 +2,7 @@ package Week2;
 
 import java.util.Scanner;
 
-public class CountCharacters {
+public class Work21 {
 
     String text;
     char symbol;
