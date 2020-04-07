@@ -2,7 +2,7 @@ package Week2;
 
 import java.util.Scanner;
 
-public class Work21 {
+public class Characters {
 
     String text;
     char symbol;

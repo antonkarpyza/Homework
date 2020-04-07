@@ -2,7 +2,7 @@ package Week2;
 
     import java.util.Scanner;
 
-    public class GamePoker {
+    public class Poker {
 
         int cardsPerPlayer = 5;
         int players = 0 ;
@@ -10,7 +10,7 @@ package Week2;
         String[] rank = {"2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"};
         int n = suits.length * rank.length;
         // часть 1 - ввод с консоли
-        public GamePoker() {
+        public Poker() {
             while(true) {
                 Scanner scanner = new Scanner(System.in);
                 System.out.println("Введите количество игроков: ");

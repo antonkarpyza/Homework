@@ -12,11 +12,11 @@ public class Main {
                     MultiplicationTable.Table();
                     break;
                 case 2:
-                    Work21 countcharacters = new Work21();
+                    Characters countcharacters = new Characters();
                     countcharacters.symbolCount();
                     break;
                 case 3:
-                    GamePoker poker = new GamePoker();
+                    Poker poker = new Poker();
                     break;
                 case 4:
                     System.out.println("Благодарим Вас за выбор нашей программы!");
