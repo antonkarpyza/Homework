@@ -9,7 +9,7 @@ public class Task1 {
 
             System.out.println("Число \"а\" входит в интервал от 25 до 100");
         } else {
-            System.out.println("Число \"а\" не входит в интервал от 25 до 100");
+            System.out.println("Число \"а\" не входитинтервал от 25 до 100");
         }
     }
 }
